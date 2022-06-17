@@ -1,0 +1,22 @@
+{
+  "name": "com.ol-popov.recyclable-item-container",
+  "version": "1.0.0",
+  "displayName": "Recyclable Item Container",
+  "description": "Container for big number of items which can recycle items instead of spawning all items.",
+  "keywords": [
+    "Recyclable Item Container",
+    "Recyclable",
+    "container"
+  ],
+  "author": {
+    "name": "Oleksii Popov",
+    "email": "oleksii.popov.vad@gmail.com"
+  },
+  "samples": [
+        {
+            "displayName": "Basic Sample",
+            "path": "Samples~/BasicSample"
+        }
+    ],
+  "type": "library"
+}
